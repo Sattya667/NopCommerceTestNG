@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Nop commerce Automation Project">
+  <test name="class">
+    <classes>
+     	<class name="testCase.TestCaseCustomer"/>
+      	<class name="testCase.SearchCustomer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
